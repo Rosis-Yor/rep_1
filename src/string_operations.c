@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /* This line be removed by git reset operation */
+/* Added my_strcat function */
 
 size_t my_strlen(char *s)
 {
