@@ -2,6 +2,7 @@
 
 /* This line be removed by git reset operation */
 /* Added my_strcat function */
+/*unction to return the string length of wide character string*/
 
 size_t my_strlen(char *s)
 {
