@@ -1,0 +1,24 @@
+From d6e3391eda73c5f743ff36658b1a72a3a9ed86bc Mon Sep 17 00:00:00 2001
+From: Rosis-Yor <zareva_rositsa@abv.bg>
+Date: Thu, 1 Nov 2018 19:15:47 +0200
+Subject: [PATCH] Added my_strcat function
+
+---
+ src/string_operations.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/string_operations.c b/src/string_operations.c
+index b328163..5d5db3b 100644
+--- a/src/string_operations.c
++++ b/src/string_operations.c
+@@ -1,6 +1,7 @@
+ #include <stdio.h>
+ 
+ /* This line be removed by git reset operation */
++/* Added my_strcat function */
+ 
+ size_t my_strlen(char *s)
+ {
+-- 
+2.18.0.windows.1
+
